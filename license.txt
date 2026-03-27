@@ -1,0 +1,35 @@
+LICENCES DU PROJET SCADEN
+=========================
+
+## Code source
+
+Le code source de ce projet est placé sous licence libre :
+
+    GNU General Public License v3.0 or later (GPL v3+)
+
+Vous êtes libre de l'utiliser, le modifier et le redistribuer selon les termes
+de cette licence.
+
+Texte complet de la licence GPL v3 :
+https://www.gnu.org/licenses/gpl-3.0.fr.html
+
+
+## Documentation et contenu textuel
+
+La documentation et le contenu textuel de ce projet sont placés sous licence :
+
+    Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0
+    International (CC BY-SA 4.0)
+
+Vous êtes libre de partager et d'adapter ce contenu, à condition de citer
+les auteurs et de redistribuer sous la même licence.
+
+Texte complet de la licence CC BY-SA 4.0 :
+https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+
+
+## Auteurs
+
+Baziz Badis, Graziani Olivier
+Terminale NSI — Lycée Bernard Palissy, Agen
+Trophées NSI 2026
